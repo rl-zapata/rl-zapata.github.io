@@ -1,2 +1,2 @@
-# Ricardo-L-Zapata.github.io
+# rl-zapata.github.io
 Personal landing page
